@@ -1,4 +1,11 @@
-## Minimalistic rEFInd theme
+## Minimalistic rEFInd theme (inverted)
+
+This is a fork where all icons are changed from white to black.
+```
+convert selection_small.png -channel RGB -negate -set filename:f '%t' '%[filename:f].png'
+```
+___
+
 
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
 based systems. This is a clean and minimal theme for it.

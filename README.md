@@ -10,7 +10,7 @@ ___
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
 based systems. This is a clean and minimal theme for it.
 
-![rEFInd Minimalistic](http://i.imgur.com/3bMG6U7.png)
+![rEFInd Minimalistic](./showcase.png)
 
 ### Usage
 
